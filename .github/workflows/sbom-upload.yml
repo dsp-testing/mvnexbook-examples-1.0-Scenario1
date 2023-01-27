@@ -1,4 +1,4 @@
-name: "Maven MultiModule Dependency Submission"
+name: "Maven MultiModule Dependency Submission" 
 on:
   push:
     branches: [ "master" ]
